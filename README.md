@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Estudiante de Ingeniería de Software | Analista y Desarrolladora
 
-Me enfoco en el desarrollo de soluciones eficientes y en el perfeccionamiento de proyectos de software. Mi fuerte es el análisis detallado y la finalización de proyectos , asegurando que el código no solo funcione, sino que sea de alta calidad.
+Me enfoco en el desarrollo de soluciones eficientes y en el perfeccionamiento de proyectos de software. Mi fuerte es el análisis detallado y la finalización de proyectos ("The Closer"), asegurando que el código no solo funcione, sino que sea de alta calidad.
 
 ---
 
@@ -30,12 +30,18 @@ Este es mi arsenal tecnológico actual. Haz clic en cada icono para ver la docum
 - 📚 **Aprendizaje:** Actualmente profundizando en Arquitectura de Software y Sistemas Operativos.
 
 ### 💬 Hablemos de...
--  resolución de problemas complejos,Aplicacion de metodologias, Creacion de aplicativos.
+- Resolución de problemas complejos, Aplicación de metodologías, Creación de aplicativos.
 - Hardware de PC y compatibilidad de componentes.
 
 ---
 
-
 ### 📫 Contacto
-- **LinkedIn:** [elian-galeaa-99b4b7273](https://www.linkedin.com/in/elian-galeaa-99b4b7273)
-- **Email:** [eliangaeaa16@gmail.com](mailto:eliangaeaa16@gmail.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/elian-galeaa-99b4b7273" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:eliangaeaa16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
