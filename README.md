@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Estudiante de Ingeniería de Software | Analista y Desarrolladora
 
-Me enfoco en el desarrollo de soluciones eficientes y en el perfeccionamiento de proyectos de software. Mi fuerte es el análisis detallado y la finalización de proyectos ("The Closer"), asegurando que el código no solo funcione, sino que sea de alta calidad.
+Me enfoco en el desarrollo de soluciones eficientes y en el perfeccionamiento de proyectos de software. Mi fuerte es el análisis detallado y la finalización de proyectos , asegurando que el código no solo funcione, sino que sea de alta calidad.
 
 ---
 
@@ -30,9 +30,8 @@ Este es mi arsenal tecnológico actual. Haz clic en cada icono para ver la docum
 - 📚 **Aprendizaje:** Actualmente profundizando en Arquitectura de Software y Sistemas Operativos.
 
 ### 💬 Hablemos de...
-- Matemáticas, estadística y resolución de problemas complejos.
+-  resolución de problemas complejos,Aplicacion de metodologias, Creacion de aplicativos.
 - Hardware de PC y compatibilidad de componentes.
-- Fans de *Arcane*, Iron Man o Spider-Man.
 
 ---
 
