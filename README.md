@@ -1,71 +1,42 @@
-# 👋 Hola, soy Elián
+# Hi there! I'm ElianWBG 👋
 
-💻 Desarrollador Web en formación  
-🚀 Apasionado por crear aplicaciones completas (Frontend + Backend)  
-📍 Ecuador  
+**Software Engineering Student | Software Architect in training | Tech Enthusiast**
 
----
-
-## 👨‍💻 Sobre mí
-
-- 🌱 Actualmente aprendiendo **Desarrollo Web Full Stack**
-- 🔭 Trabajando en sistemas con **Node.js, Express y SQLite**
-- 🎯 Interesado en proyectos de **simulación interactiva, educación y software web**
-- 💡 Me gusta convertir ideas en aplicaciones reales
+I am a detail-oriented developer focused on building efficient solutions and robust architectures. I specialize in being "The Closer"—the editor and analyst who ensures every project reaches its highest potential.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+### 🔭 Currently Working On
+- 🏗️ **Software Architecture & OS:** Deep diving into system design and resource management.
+- ⚡ **Energy Consumption Simulator:** Refining interactive tools using JavaScript and web technologies.
+- 📊 **Academic Systems:** Modernizing tutoring registrations with UML modeling and SQL databases.
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Diseño responsivo
+### 🌱 Learning & Improving
+- 🐍 **Advanced Python:** Mastering decorators, generators, and OOP patterns.
+- 🌐 **Modern Frontend:** Advanced DOM manipulation and LocalStorage persistence.
+- 🏛️ **Database Management:** SQL optimization and relational data design.
+- 🇬🇧 **English for Tech:** Enhancing professional communication and technical vocabulary.
 
-### Backend
-- Node.js
-- Express
-- Sequelize
-- SQLite
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript (ES6+), SQL.
+- **Frontend:** HTML5, CSS3.
+- **Tools:** Git, GitHub, UML Modeling, LaTeX.
 
-### Otras habilidades
-- Git & GitHub
-- Lógica de programación
-- Modelado de proyectos
-- Desarrollo de sistemas web completos
-
----
-
-## 📌 Proyectos destacados
-
-🔐 **Sistema Web con Login y Roles**
-- Registro e inicio de sesión
-- Roles: Usuario / Administrador
-- Panel de administración
-- Backend con Node.js + Express + Sequelize
-
-⚛️ **Simulación Interactiva – Tercera Ley de Newton**
-- Proyecto educativo web interactivo
-- Física + programación
-- HTML, CSS y JavaScript
-
-📊 **Proyecto de Álgebra Lineal**
-- Optimización y modelado matemático aplicado
+### 💬 Ask me about
+- Math, statistics, and complex problem-solving.
+- PC Hardware and component compatibility.
+- Anything related to *Arcane*, Iron Man, or Spider-Man.
 
 ---
 
-## 🎯 Objetivo
+### ⚡ Fun Fact
+In group projects, I naturally take the role of **The Editor and Analyst**. I enjoy the process of polishing code and ensuring logical consistency in every final deliverable.
 
-Seguir creciendo como desarrollador Full Stack  
-y participar en proyectos reales y colaborativos 🚀
-
----
-
-## 📫 Contacto
-
-📧 Email: Mariab243543@gmail.com  
+### 📫 How to reach me
+- **LinkedIn:** [Your Link Here]
+- **Portfolio:** [Your Link Here]
 
 ---
 
-⭐ Gracias por visitar mi perfil
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElianWBG&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElianWBG&layout=compact&theme=radical)
