@@ -31,13 +31,7 @@ Este es mi arsenal tecnológico actual, combinando el desarrollo backend, bases 
 
 ---
 
-### 📈 Mis Estadísticas
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ElianWBG&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de ElianWBG" />
-</p>
-
----
 
 ### 📫 Contacto
-- **LinkedIn:** [Tu enlace aquí]
-- **Email:** [Tu correo aquí]
+- **LinkedIn:** www.linkedin.com/in/elian-galeaa-99b4b7273
+- **Email:** eliangaeaa16@gmail.com
