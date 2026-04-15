@@ -6,21 +6,15 @@ Me enfoco en el desarrollo de soluciones eficientes y en el perfeccionamiento de
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Mis Habilidades Técnicas
 
-**Lenguajes y Bases de Datos**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Este es mi arsenal tecnológico actual, combinando el desarrollo backend, bases de datos, frontend y herramientas esenciales.
 
-**Desarrollo Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Herramientas y Control de Versiones**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,js,git,github,latex&theme=dark" alt="ElianWBG Skill Icons" />
+  </a>
+</p>
 
 ---
 
@@ -38,7 +32,9 @@ Me enfoco en el desarrollo de soluciones eficientes y en el perfeccionamiento de
 ---
 
 ### 📈 Mis Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ElianWBG&show_icons=true&theme=tokyonight&locale=es)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ElianWBG&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de ElianWBG" />
+</p>
 
 ---
 
