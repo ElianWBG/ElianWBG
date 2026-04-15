@@ -8,12 +8,17 @@ Me enfoco en el desarrollo de soluciones eficientes y en el perfeccionamiento de
 
 ### 🛠️ Mis Habilidades Técnicas
 
-Este es mi arsenal tecnológico actual, combinando el desarrollo backend, bases de datos, frontend y herramientas esenciales.
+Este es mi arsenal tecnológico actual. Haz clic en cada icono para ver la documentación oficial:
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,js,git,github,latex&theme=dark" alt="ElianWBG Skill Icons" />
-  </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://react.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://www.mysql.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://github.com" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://git-scm.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 </p>
 
 ---
@@ -31,7 +36,13 @@ Este es mi arsenal tecnológico actual, combinando el desarrollo backend, bases 
 
 ---
 
+### 📈 Mis Estadísticas
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ElianWBG&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de ElianWBG" />
+</p>
+
+---
 
 ### 📫 Contacto
-- **LinkedIn:** www.linkedin.com/in/elian-galeaa-99b4b7273
-- **Email:** eliangaeaa16@gmail.com
+- **LinkedIn:** [elian-galeaa-99b4b7273](https://www.linkedin.com/in/elian-galeaa-99b4b7273)
+- **Email:** [eliangaeaa16@gmail.com](mailto:eliangaeaa16@gmail.com)
