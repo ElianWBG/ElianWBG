@@ -36,12 +36,6 @@ Este es mi arsenal tecnológico actual. Haz clic en cada icono para ver la docum
 
 ---
 
-### 📈 Mis Estadísticas
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ElianWBG&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de ElianWBG" />
-</p>
-
----
 
 ### 📫 Contacto
 - **LinkedIn:** [elian-galeaa-99b4b7273](https://www.linkedin.com/in/elian-galeaa-99b4b7273)
